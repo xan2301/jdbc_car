@@ -1,0 +1,3 @@
+Stwórz aplikację w SpringBoot, która z wykorzystaniem JDBC będzie zapisywala i odczytywała dane na temat samochodu. Utwórz formatke z wykorzytsaniem biblioteki Vaadin,
+ktora bedzie przyjmowala pol takie jak model, marka, kolor. Utworz osobna podstrone, ktora będzie wyswietlala listę samochodów
+w zaleznosci od marki. Na starcie aplikacji dodaj do bazy danych conajniej 4 pojazdy z dwoch roznych marek.
